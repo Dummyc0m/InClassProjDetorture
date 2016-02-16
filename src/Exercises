@@ -1,0 +1,10 @@
+true, true, true, true, false.
+
+false, true, true, true.
+
+c, d.
+
+10. it returns true when x is Class<? extends I>
+
+13. because it is already implemented in Object and putting it in any interface would not do anything because an implementation would already be present.
+
